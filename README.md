@@ -1,5 +1,3 @@
-# Git Basics Lab
-
 ## Learning Goals
 
 - Understand how to complete assignments
@@ -320,6 +318,3 @@ off what they're capable of. You did this guided by _tests_. It's common for
 developers to write tasks as tests that all fail and then slowly work to get
 them all passing. It's like a to-do list that verifies you've actually done the
 work!
-
-[github]: https://github.com/
-[pr]: https://help.github.com/en/articles/about-pull-requests
